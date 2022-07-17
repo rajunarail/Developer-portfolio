@@ -55,3 +55,13 @@ background-position: right;
     background-repeat: no-repeat;
     background-position: left;
 }
+
+#full-stack-developer{    border-left: 10px solid red;
+
+
+}
+
+#baby-web-developer{
+    border-left: 10px solid lawngreen;
+
+}
